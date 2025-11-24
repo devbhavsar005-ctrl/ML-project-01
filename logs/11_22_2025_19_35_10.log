@@ -1,0 +1,4 @@
+[ 2025-11-22 19:35:14,458 ] 30 __main__ - INFO - data ingestion is initiated according to methods
+[ 2025-11-22 19:35:14,499 ] 34 __main__ - INFO - Data reading is started
+[ 2025-11-22 19:35:14,510 ] 39 __main__ - INFO - Train TEst split is started 
+[ 2025-11-22 19:35:14,529 ] 46 __main__ - INFO - Inmgestion of the data iss completed

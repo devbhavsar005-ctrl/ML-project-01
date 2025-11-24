@@ -1,0 +1,11 @@
+[ 2025-11-24 11:18:17,746 ] 30 __main__ - INFO - data ingestion is initiated according to methods
+[ 2025-11-24 11:18:17,753 ] 34 __main__ - INFO - Data reading is started
+[ 2025-11-24 11:18:17,760 ] 39 __main__ - INFO - Train TEst split is started 
+[ 2025-11-24 11:18:17,768 ] 46 __main__ - INFO - Inmgestion of the data iss completed
+[ 2025-11-24 11:18:18,066 ] 80 source.components.data_transformation - INFO - Read train and test data completed
+[ 2025-11-24 11:18:18,066 ] 81 source.components.data_transformation - INFO - Obtaining preprocessing object
+[ 2025-11-24 11:18:18,066 ] 60 source.components.data_transformation - INFO - Numerical columns :['writing_score', 'reading_score']
+[ 2025-11-24 11:18:18,066 ] 61 source.components.data_transformation - INFO - categorical columns:['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2025-11-24 11:18:18,079 ] 95 source.components.data_transformation - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2025-11-24 11:18:18,113 ] 107 source.components.data_transformation - INFO - Saved preprocessing object.
+[ 2025-11-24 11:18:18,842 ] 36 source.components.model_trainer - INFO - Split training and test input data

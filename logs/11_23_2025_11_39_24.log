@@ -1,0 +1,10 @@
+[ 2025-11-23 11:39:24,326 ] 30 source.components.data_ingestion - INFO - data ingestion is initiated according to methods
+[ 2025-11-23 11:39:24,337 ] 34 source.components.data_ingestion - INFO - Data reading is started
+[ 2025-11-23 11:39:24,344 ] 39 source.components.data_ingestion - INFO - Train TEst split is started 
+[ 2025-11-23 11:39:24,352 ] 46 source.components.data_ingestion - INFO - Inmgestion of the data iss completed
+[ 2025-11-23 11:39:24,391 ] 80 __main__ - INFO - Read train and test data completed
+[ 2025-11-23 11:39:24,391 ] 81 __main__ - INFO - Obtaining preprocessing object
+[ 2025-11-23 11:39:24,391 ] 60 __main__ - INFO - Numerical columns :['writing_score', 'reading_score']
+[ 2025-11-23 11:39:24,392 ] 61 __main__ - INFO - categorical columns:['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2025-11-23 11:39:24,394 ] 95 __main__ - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2025-11-23 11:39:24,428 ] 107 __main__ - INFO - Saved preprocessing object.

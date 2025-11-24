@@ -1,0 +1,2 @@
+[ 2025-11-23 11:38:41,047 ] 60 source.components.data_transformation - INFO - Numerical columns :['writing_score', 'reading_score']
+[ 2025-11-23 11:38:41,048 ] 61 source.components.data_transformation - INFO - categorical columns:['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
